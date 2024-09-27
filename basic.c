@@ -13,5 +13,6 @@ int main()
         printf("%d",count);
         count=count+1;
     }
+    int someThignnew=0;
     return 0;
 }
